@@ -13,15 +13,13 @@ Multi-Dataset-Image-Classification/
 │
 ├── MNIST/
 │   ├── mnist_classification.ipynb      # Handwritten digit recognition (0–9)
-│   └── README_mnist.md                 # Dataset & results info
+│   └── dataset/                 # Dataset 
 │
 ├── CIFAR-10/
 │   ├── cifar10_classification.ipynb    # 10-class object recognition
-│   └── README_cifar10.md              # Dataset & results info
 │
 ├── Chihuahua-vs-Muffin/
 │   ├── chihuahua_muffin.ipynb          # Binary image classification
-│   └── README_chihuahua.md            # Dataset & results info
 │
 └── README.md
 ```
@@ -34,7 +32,7 @@ Multi-Dataset-Image-Classification/
 |---|---|---|---|---|
 | MNIST | Grayscale (28×28) | 10 (digits 0–9) | 70,000 | `tensorflow.keras.datasets` |
 | CIFAR-10 | Color (32×32) | 10 (objects) | 60,000 | `tensorflow.keras.datasets` |
-| Chihuahua vs Muffin | Color (varies) | 2 (binary) | Kaggle | [Kaggle Dataset](https://www.kaggle.com/) |
+| Chihuahua vs Muffin | Color (varies) | 2 (binary) | Kaggle | [Kaggle Dataset](https://www.kaggle.com/datasets/samuelcortinhas/muffin-vs-chihuahua-image-classification/data) |
 
 ---
 
