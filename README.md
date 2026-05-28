@@ -99,7 +99,7 @@ Or open directly in **Google Colab** — click the badge below:
 
 | Dataset | Test Accuracy |
 |---|---|
-| MNIST | ~99% |
+| MNIST | ~97% |
 | CIFAR-10 | ~75–80% |
 | Chihuahua vs Muffin | ~85–90% |
 
